@@ -1,4 +1,4 @@
-wordpress_greek
+wordpress-greek
 ===============
 
 customized template developed on wordpress
